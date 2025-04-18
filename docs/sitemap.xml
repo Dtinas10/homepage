@@ -2,155 +2,155 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Dtinas10.github.io/homepage/event/example/</loc>
+    <loc>http://localhost:1313/homepage/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/event/</loc>
+    <loc>http://localhost:1313/homepage/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/projects/</loc>
+    <loc>http://localhost:1313/homepage/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/post/get-started/</loc>
+    <loc>http://localhost:1313/homepage/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/tags/academic/</loc>
+    <loc>http://localhost:1313/homepage/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/post/</loc>
+    <loc>http://localhost:1313/homepage/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/tags/hugo-blox/</loc>
+    <loc>http://localhost:1313/homepage/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/tags/markdown/</loc>
+    <loc>http://localhost:1313/homepage/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/tags/</loc>
+    <loc>http://localhost:1313/homepage/tags/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/tags/hugo/</loc>
+    <loc>http://localhost:1313/homepage/tags/hugo/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/project/pandas/</loc>
+    <loc>http://localhost:1313/homepage/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/project/</loc>
+    <loc>http://localhost:1313/homepage/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/project/pytorch/</loc>
+    <loc>http://localhost:1313/homepage/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/project/scikit/</loc>
+    <loc>http://localhost:1313/homepage/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/tags/second-brain/</loc>
+    <loc>http://localhost:1313/homepage/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/tags/wowchemy/</loc>
+    <loc>http://localhost:1313/homepage/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/post/second-brain/</loc>
+    <loc>http://localhost:1313/homepage/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/post/data-visualization/</loc>
+    <loc>http://localhost:1313/homepage/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/post/teach-courses/</loc>
+    <loc>http://localhost:1313/homepage/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/experience/</loc>
+    <loc>http://localhost:1313/homepage/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/tags/hugo-blox-builder/</loc>
+    <loc>http://localhost:1313/homepage/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/tags/javascript/</loc>
+    <loc>http://localhost:1313/homepage/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/teaching/js/</loc>
+    <loc>http://localhost:1313/homepage/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/teaching/python/</loc>
+    <loc>http://localhost:1313/homepage/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/tags/python/</loc>
+    <loc>http://localhost:1313/homepage/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/teaching/</loc>
+    <loc>http://localhost:1313/homepage/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/post/project-management/</loc>
+    <loc>http://localhost:1313/homepage/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/</loc>
+    <loc>http://localhost:1313/homepage/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/publication/preprint/</loc>
+    <loc>http://localhost:1313/homepage/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/publication_types/article/</loc>
+    <loc>http://localhost:1313/homepage/publication_types/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/tags/large-language-models/</loc>
+    <loc>http://localhost:1313/homepage/tags/large-language-models/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/publication_types/</loc>
+    <loc>http://localhost:1313/homepage/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/publication/</loc>
+    <loc>http://localhost:1313/homepage/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/publication/journal-article/</loc>
+    <loc>http://localhost:1313/homepage/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/publication_types/article-journal/</loc>
+    <loc>http://localhost:1313/homepage/publication_types/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/tags/source-themes/</loc>
+    <loc>http://localhost:1313/homepage/tags/source-themes/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/publication/conference-paper/</loc>
+    <loc>http://localhost:1313/homepage/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Dtinas10.github.io/homepage/publication_types/paper-conference/</loc>
+    <loc>http://localhost:1313/homepage/publication_types/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
