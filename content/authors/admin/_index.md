@@ -42,7 +42,7 @@ profiles:
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-9369-9206
 
 interests:
   - Control

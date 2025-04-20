@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference | David Tinoco</title>
+    <link>http://localhost:1313/homepage/conference/</link>
+      <atom:link href="http://localhost:1313/homepage/conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/homepage/media/icon_hu7729264130191091259.png</url>
+      <title>Conference</title>
+      <link>http://localhost:1313/homepage/conference/</link>
+    </image>
+    
+    <item>
+      <title>FSEN 2025</title>
+      <link>http://localhost:1313/homepage/conference/fsen25/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/fsen25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEFM 2024</title>
+      <link>http://localhost:1313/homepage/conference/sefm24/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/sefm24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FACS 2024</title>
+      <link>http://localhost:1313/homepage/conference/facs24/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/facs24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INForum 2024</title>
+      <link>http://localhost:1313/homepage/conference/inforum24/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/inforum24/</guid>
+      <description>&lt;h2 id=&#34;inforum--15º-simpósio-nacional-de-informática&#34;&gt;INForum – 15º Simpósio Nacional de Informática&lt;/h2&gt;
+&lt;p&gt;(Portuguese event)&lt;/p&gt;
+&lt;p&gt;Reunindo a comunidade nacional, o INForum é um local privilegiado para a divulgação, discussão e reconhecimento de trabalhos científicos e de inovação e avanços tecnológicos em Informática. O INForum oferece assim um palco especializado para promover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;o intercâmbio de conhecimento e experiência entre a academia e a indústria&lt;/li&gt;
+&lt;li&gt;a estreia de jovens investigadores que procuram a divulgação, a crítica construtiva e o encorajamento do seu trabalho.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A Informática é uma área de Investigação e Desenvolvimento consolidada em Portugal, suportada numa rede de centros de investigação reconhecidos internacionalmente e na oferta de cursos de licenciatura e pós-graduação por praticamente todas as instituições portuguesas de ensino superior. É igualmente uma área na qual várias empresas nacionais apresentam resultados de I&amp;amp;D de relevância internacional.&lt;/p&gt;
+&lt;p&gt;Assim, o INForum é um evento nacional de partilha e de fortalecimento do espírito de comunidade. A edição de 2024, o 15º Simpósio Nacional de Informática - INForum, decorrerá na Faculdade de Ciências da Universidade de Lisboa.&lt;/p&gt;
+&lt;h3 id=&#34;datas-importantes&#34;&gt;Datas Importantes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;16 fevereiro:&lt;/strong&gt; Receção de Propostas para Tópicos&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;14 março:&lt;/strong&gt; Notificação aos proponentes de Tópicos&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;21 março:&lt;/strong&gt; Receção de propostas finais para Tópicos&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;14 junho:&lt;/strong&gt; Submissão de Resumos&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;21 junho:&lt;/strong&gt; Submissão de Artigos&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;08 julho:&lt;/strong&gt; Notificação aos autores dos artigos&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;12 julho:&lt;/strong&gt; Submissão de comunicações, pósteres e demonstrações&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;17 julho:&lt;/strong&gt; Notificação aos autores das comunicações, pósteres e demonstrações&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;24 julho:&lt;/strong&gt; Submissão de camera-ready&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;5-6 set:&lt;/strong&gt; Evento em Lisboa&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD symposium SPLC 2024</title>
+      <link>http://localhost:1313/homepage/conference/splc24/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/splc24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VERDI @ DSN 2024</title>
+      <link>http://localhost:1313/homepage/conference/verdi24/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/verdi24/</guid>
+      <description>&lt;h2 id=&#34;2nd-international-workshop-on-verification--validation-of-dependable-cyber-physical-systems&#34;&gt;2nd International Workshop on Verification &amp;amp; Validation of Dependable Cyber-Physical Systems&lt;/h2&gt;
+&lt;p&gt;The VERDI workshop aims at serving as a discussion forum focused on the area of V&amp;amp;V as a means to guarantee dependability of complex, potentially automated/autonomous CPS. This workshop covers all aspects related to the dependability evaluation (with special focus on &lt;strong&gt;safety&lt;/strong&gt; and &lt;strong&gt;security&lt;/strong&gt;) of safety-critical CPS using techniques such as fault/attack-injection, runtime verification, formal verification, semi-formal analysis, simulation, and testing.&lt;/p&gt;
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Paper submission: March 22 (AoE)&lt;/li&gt;
+&lt;li&gt;Notification: April 12 (AoE)&lt;/li&gt;
+&lt;li&gt;Final version: May 3 (AoE)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COORDINATION 2024</title>
+      <link>http://localhost:1313/homepage/conference/coordination24/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/coordination24/</guid>
+      <description>&lt;h2 id=&#34;26th-international-conference-on-coordination-models-and-languages&#34;&gt;26th International Conference on Coordination Models and Languages&lt;/h2&gt;
+&lt;p&gt;Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today’s software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.&lt;/p&gt;
+&lt;h3 id=&#34;topics&#34;&gt;Topics&lt;/h3&gt;
+&lt;p&gt;Topics of interest encompass all areas of coordination, including (but not limited to) coordination related aspects of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Theoretical models and foundations for coordination: component composition, concurrency, distribution, mobility; dynamic, spatial and probabilistic aspects of coordination; logic, types, semantics.&lt;/li&gt;
+&lt;li&gt;Coordination of multi-agent and collective systems: models, languages, infrastructures, self-adaptation, self-organisation, distributed solving, collective intelligence and emerging behaviour.&lt;/li&gt;
+&lt;li&gt;Coordination and modern distributed computing: web services, microservices, peer-to-peer networks, grid computing, context-awareness, ubiquitous computing, mobile computing, reversible computing.&lt;/li&gt;
+&lt;li&gt;Session-based programming: models, languages, behavioural types, and tools.&lt;/li&gt;
+&lt;li&gt;Models, languages, verification techniques and tools for interacting smart contracts and (blockchain-based) decentralised applications.&lt;/li&gt;
+&lt;li&gt;Languages, methodologies and tools for secure coordination.&lt;/li&gt;
+&lt;li&gt;Cybersecurity aspects of coordinated systems, coordinated approaches to cybersecurity.&lt;/li&gt;
+&lt;li&gt;Nature- and bio-inspired approaches to coordination.&lt;/li&gt;
+&lt;li&gt;Specification, refinement, and analysis of architectures: patterns and styles, verification of functional and non-functional properties, including performance and security aspects.&lt;/li&gt;
+&lt;li&gt;Dynamic software architectures: distributed mobile code, configuration, reconfiguration, networked computing, parallel, high-performance and cloud computing.&lt;/li&gt;
+&lt;li&gt;Coordination platforms for infrastructures of emergent new application domains, like IoT, fog- and edge-computing.&lt;/li&gt;
+&lt;li&gt;Programming methodologies, languages, middleware, tools, and environments for the development and verification of coordinated applications, including DevOps approaches.&lt;/li&gt;
+&lt;li&gt;Coordination in business process management: coordination models for business process management, process mining techniques and tools for coordination models.&lt;/li&gt;
+&lt;li&gt;Industrial relevance of coordination and software architectures: programming in the large, domain-specific software architectures and coordination models, industry-driven efforts in coordination and case studies.&lt;/li&gt;
+&lt;li&gt;Interdisciplinary aspects of coordination.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;invited-speaker&#34;&gt;Invited Speaker&lt;/h3&gt;
+&lt;p&gt;Marieke Huisman, University of Twente, The Netherlands&lt;/p&gt;
+&lt;h3 id=&#34;programme-committee-co-chairs&#34;&gt;Programme Committee co-chairs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www-sop.inria.fr/members/Ilaria.Castellani/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ilaria Castellani&lt;/a&gt; (INRIA Sophia Antipolis, France)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.disia.unifi.it/tiezzi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Francesco Tiezzi&lt;/a&gt; (University of Florence, Italy)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ICTAC 2023</title>
+      <link>http://localhost:1313/homepage/conference/ictac23/</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/ictac23/</guid>
+      <description>&lt;h2 id=&#34;20th-international-colloquium-on-theoretical-aspects-of-computing&#34;&gt;20th International Colloquium on Theoretical Aspects of Computing&lt;/h2&gt;
+&lt;p&gt;The International Colloquium on Theoretical Aspects of Computing (ICTAC) was founded in 2004. It takes place every year preferably in a developing country. The aim of the colloquium is to bring together practitioners and researchers from academia, industry and government to present research results, and exchange experience, ideas, and solutions for their problems in theoretical aspects of computing. Beyond these scholarly goals, another main purpose of the conference is to promote cooperation in research and education between participants and their institutions, from developing and industrial countries.&lt;/p&gt;
+&lt;p&gt;The conference concerns all aspect of theoretical computer science, including, but not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Languages and automata&lt;/li&gt;
+&lt;li&gt;Semantics of programming languages&lt;/li&gt;
+&lt;li&gt;Logic in computer science&lt;/li&gt;
+&lt;li&gt;Lambda calculus, type theory, and category theory&lt;/li&gt;
+&lt;li&gt;Domain-specific languages&lt;/li&gt;
+&lt;li&gt;Theories of concurrency and mobility&lt;/li&gt;
+&lt;li&gt;Theories of distributed computing&lt;/li&gt;
+&lt;li&gt;Models of objects and components&lt;/li&gt;
+&lt;li&gt;Coordination models&lt;/li&gt;
+&lt;li&gt;Timed, hybrid, embedded, and cyber-physical systems&lt;/li&gt;
+&lt;li&gt;Security and privacy&lt;/li&gt;
+&lt;li&gt;Static analysis&lt;/li&gt;
+&lt;li&gt;Software verification&lt;/li&gt;
+&lt;li&gt;Software testing&lt;/li&gt;
+&lt;li&gt;Program generation and transformation&lt;/li&gt;
+&lt;li&gt;Model checking and theorem proving&lt;/li&gt;
+&lt;li&gt;Theory and methods of trustworthy AI&lt;/li&gt;
+&lt;li&gt;Applications and experiences&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD symposium iFM 2023</title>
+      <link>http://localhost:1313/homepage/conference/ifm23/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/ifm23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FTSCS @ SPLASH 2023</title>
+      <link>http://localhost:1313/homepage/conference/ftscs23/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/ftscs23/</guid>
+      <description>&lt;h2 id=&#34;9th-acm-international-workshop-on-formal-techniques-for-safety-critical-systems&#34;&gt;9th ACM International Workshop on Formal Techniques for Safety-Critical Systems&lt;/h2&gt;
+&lt;p&gt;There is an increasing demand for using formal methods to validate and verify safety-critical systems in fields such as power generation and distribution, avionics, automotive systems, medical systems, and autonomous vehicles. In particular, newer standards, such as DO-178C (avionics), ISO 26262 (automotive systems), IEC 62304 (medical devices), and CENELEC EN 50128 (railway systems), emphasize the need for formal methods and model-based development, thereby speeding up the adaptation of such methods in industry.&lt;/p&gt;
+&lt;p&gt;The aim of this workshop is to bring together researchers and engineers who are interested in the application of formal and semi-formal methods to improve the quality of safety-critical computer systems. FTSCS strives to promote research and development of formal methods and tools for industrial applications, and is particularly interested in industrial applications of formal methods.&lt;/p&gt;
+&lt;p&gt;Specific topics include, but are not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;case studies and experience reports on the use of formal methods for analyzing safety-critical systems, including avionics, automotive, medical, railway, and other kinds of safety-critical and QoS-critical systems&lt;/li&gt;
+&lt;li&gt;methods, techniques and tools to support automated analysis, certification, debugging, etc., of safety/QoS-critical systems&lt;/li&gt;
+&lt;li&gt;analysis methods that address the limitations of formal methods in industry (usability, scalability, etc.)&lt;/li&gt;
+&lt;li&gt;formal analysis support for modeling languages used in industry, such as AADL, Ptolemy, SysML, SCADE, Modelica, etc.&lt;/li&gt;
+&lt;li&gt;code generation from validated models.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The workshop will provide a platform for discussions and the exchange of innovative ideas, so submissions on work in progress are encouraged.&lt;/p&gt;
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Submission deadline: July 21, 2023 (AoE)&lt;/li&gt;
+&lt;li&gt;Notification of acceptance: August 26, 2023&lt;/li&gt;
+&lt;li&gt;Camera ready paper due: September 10, 2023&lt;/li&gt;
+&lt;li&gt;Workshop: October 22, 2023&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FACS 2023</title>
+      <link>http://localhost:1313/homepage/conference/facs23/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/facs23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSSRail 2023</title>
+      <link>http://localhost:1313/homepage/conference/rssrail23/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/rssrail23/</guid>
+      <description>&lt;h2 id=&#34;international-conference-on-reliability-safety-and-security-of-railway-systems&#34;&gt;International Conference on Reliability, Safety and Security of Railway Systems&lt;/h2&gt;
+&lt;p&gt;The fifth RSSRail will be happening on October 10-12, 2023 in Berlin. The railway industry faces increasing pressure to improve system safety, to decrease production costs and time to market, to reduce carbon emissions and running costs, and to increase the capacity of the railway. Railway systems are now being integrated into larger multi-transport networks. Such systems require an even higher degree of automation at all levels of operation. These trends dramatically increase the complexity of railway applications and pose new challenges in developing novel methods of modelling, analysis, verification and validation to ensure their reliability, safety and security, as well as in supporting novel mechanisms and procedures to help make the case that development processes meet the mandated standards.&lt;/p&gt;
+&lt;h3 id=&#34;important-dates&#34;&gt;Important dates&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;April 28, 2023: abstract submission for all papers; abstract submission for tutorials&lt;/li&gt;
+&lt;li&gt;May 5, 2023: full paper submission&lt;/li&gt;
+&lt;li&gt;June 16, 2023: Notification&lt;/li&gt;
+&lt;li&gt;July 14, 2023 camera-ready papers submitted&lt;/li&gt;
+&lt;li&gt;July 14, 2023 abstract submission for posters&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VERDI @ DSN 2023</title>
+      <link>http://localhost:1313/homepage/conference/verdi23/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/verdi23/</guid>
+      <description>&lt;h2 id=&#34;1st-international-workshop-on-verification--validation-of-dependable-cyber-physical-systems&#34;&gt;1st International Workshop on Verification &amp;amp; Validation of Dependable Cyber-Physical Systems&lt;/h2&gt;
+&lt;p&gt;The VERDI workshop aims at serving as a discussion forum focused on the area of V&amp;amp;V as a means to guarantee dependability of complex, potentially automated/autonomous CPS. This workshop covers all aspects related to the dependability evaluation (with special focus on &lt;strong&gt;safety&lt;/strong&gt; and &lt;strong&gt;security&lt;/strong&gt;) of safety-critical CPS using techniques such as fault/attack-injection, runtime verification, formal verification, semi-formal analysis, simulation, and testing.&lt;/p&gt;
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Paper submission: March 28 (AoE)&lt;/li&gt;
+&lt;li&gt;Notification: April 21 (AoE)&lt;/li&gt;
+&lt;li&gt;Final version: May 5 (AoE)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COORDINATION 2023</title>
+      <link>http://localhost:1313/homepage/conference/coordination23/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/coordination23/</guid>
+      <description>&lt;h2 id=&#34;25th-international-conference-on-coordination-models-and-languages&#34;&gt;25th International Conference on Coordination Models and Languages&lt;/h2&gt;
+&lt;p&gt;Modern information systems rely increasingly on combining concurrent, distributed,
+mobile, adaptive, reconfigurable and heterogeneous components. New models,
+architectures, languages and verification techniques are necessary to cope with
+the complexity induced by the demands of today’s software development.
+Coordination languages have emerged as a successful approach, in that they provide
+abstractions that cleanly separate behaviour from communication, therefore
+increasing modularity, simplifying reasoning, and ultimately enhancing software
+development. Building on the success of the previous editions, this conference
+provides a well-established forum for the growing community of researchers
+interested in models, languages, architectures, and implementation techniques for
+coordination.&lt;/p&gt;
+&lt;h3 id=&#34;topics&#34;&gt;Topics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Theoretical models and foundations for coordination:
+component composition, concurrency, mobility, dynamic, spatial and
+probabilistic aspects of coordination, logic, emergent behaviour, types,
+semantics;&lt;/li&gt;
+&lt;li&gt;Specification, refinement, and analysis of architectures:
+patterns and styles, verification of functional and non-functional
+properties, including performance and security aspects;&lt;/li&gt;
+&lt;li&gt;Dynamic software architectures:
+distributed mobile code, configuration, reconfiguration, networked
+computing, parallel, high-performance and cloud computing&lt;/li&gt;
+&lt;li&gt;Nature- and bio-inspired approaches to coordination;&lt;/li&gt;
+&lt;li&gt;Coordination of multi-agent and collective systems:
+models, languages, infrastructures, self-adaptation, self-organisation,
+distributed solving, collective intelligence and emerging behaviour;&lt;/li&gt;
+&lt;li&gt;Coordination and modern distributed computing:
+web services, peer-to-peer networks, grid computing, context-awareness,
+ubiquitous computing, mobile computing;&lt;/li&gt;
+&lt;li&gt;Coordination platforms for infrastructures of emergent new application domains
+like IoT, fog- and edge-computing;&lt;/li&gt;
+&lt;li&gt;Cybersecurity aspects of coordinated systems, coordinated approaches to
+cybersecurity;&lt;/li&gt;
+&lt;li&gt;Programming methodologies, languages, middleware, tools, and environments
+for the development and verification of coordinated applications;&lt;/li&gt;
+&lt;li&gt;Tools, languages and methodologies for secure coordination;&lt;/li&gt;
+&lt;li&gt;Industrial relevance of coordination and software architectures:
+programming in the large, domain-specific software architectures and
+coordination models, case studies;&lt;/li&gt;
+&lt;li&gt;Interdisciplinary aspects of coordination;&lt;/li&gt;
+&lt;li&gt;Industry-led efforts in coordination and case studies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;invited-speaker&#34;&gt;Invited Speaker&lt;/h3&gt;
+&lt;p&gt;Frank Pfenning, Carnegie Mellon University, USA&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FSEN 2023</title>
+      <link>http://localhost:1313/homepage/conference/fsen23/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/fsen23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TiCSA @ ETAPS 2023</title>
+      <link>http://localhost:1313/homepage/conference/ticsa23/</link>
+      <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/ticsa23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FACS 2022</title>
+      <link>http://localhost:1313/homepage/conference/facs22/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/facs22/</guid>
+      <description>&lt;p&gt;FACS 2022 is concerned with how formal methods can be applied to component-based software and system development. Formal methods have provided foundations for component-based software through research on mathematical models for components, composition and adaptation, and rigorous approaches to verification, deployment, testing, and certification.&lt;/p&gt;
+&lt;p&gt;This edition will be help online in November 2022, hosted by Oslo University, and already counts with a great line up of invited speakers and a strong program committee.&lt;/p&gt;
+&lt;p&gt;Check our website: &lt;a href=&#34;https://facs-conference.github.io/2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://facs-conference.github.io/2022&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Abstract submission deadline: 24 Jun, 2022 (AoE)&lt;/li&gt;&lt;li&gt;Paper submission deadline: 4 Jul, 2022 (AoE)&lt;/li&gt;&lt;li&gt;Notification: 5 Sep, 2022 (AoE)&lt;/li&gt;&lt;li&gt;Final version due: 26 Sep, 2022 (AoE)&lt;/li&gt;&lt;/ul&gt;&lt;h2 id=&#34;follow-us&#34;&gt;Follow Us&lt;/h2&gt;&lt;p&gt;All updates on &lt;a href=&#34;https://twitter.com/facs_conf&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;twitter.com/facs_conf&lt;/a&gt;&lt;/p&gt;&lt;h2 id=&#34;invited-speakers&#34;&gt;Invited Speakers&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;../speakers/christelbaier/&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;Christel Baier&lt;/a&gt;, TU Dresden, Germany&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;../speakers/renatoneves/&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;Renato Neves&lt;/a&gt;, University of Minho, Portugal&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;../speakers/inaschaefer/&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;Ina Schaefer&lt;/a&gt;, Karlsruhe IT, Germany&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;../speakers/volkerstolz/&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;Volker Stolz&lt;/a&gt;, Western Norway University of Applied Science, Norway&lt;/li&gt;&lt;/ul&gt;&lt;h2 id=&#34;topics&#34;&gt;Topics&lt;/h2&gt;&lt;p&gt;The conference seeks to address the applications of formal methods in all
+aspects of software components and services. FACS aims at developing a
+community-based understanding of relevant and emerging research problems
+through formal paper presentations and lively discussions. FACS 2022
+welcomes contributions including but not limited to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Formal methods, models, and languages for components and services, including
+    &lt;ul&gt;&lt;li&gt;verification techniques (e.g., model checking, type systems, testing, runtime analysis),&lt;/li&gt;&lt;li&gt;probabilistic techniques,&lt;/li&gt;&lt;li&gt;(co-)simulation techniques,&lt;/li&gt;&lt;li&gt;composition and deployment,&lt;/li&gt;&lt;li&gt;component interaction,&lt;/li&gt;&lt;li&gt;software variability,&lt;/li&gt;&lt;li&gt;QoS and other non-functional properties (e.g., trust, compliance, security, privacy);&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Formal aspects of concrete component-based systems, including
+    &lt;ul&gt;&lt;li&gt;service-oriented architectures,&lt;/li&gt;&lt;li&gt;business processes,&lt;/li&gt;&lt;li&gt;cloud or edge computing,&lt;/li&gt;&lt;li&gt;real-time/safety-critical systems,&lt;/li&gt;&lt;li&gt;hybrid and cyber physical systems,&lt;/li&gt;&lt;li&gt;quantum systems,&lt;/li&gt;&lt;li&gt;components that use artificial intelligence;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Tools supporting formal methods for components and services;&lt;/li&gt;&lt;li&gt;Case studies and experience reports over the above topics.&lt;/li&gt;&lt;/ul&gt;&lt;h2 id=&#34;submissions&#34;&gt;Submissions&lt;/h2&gt;&lt;p&gt;We solicit high-quality submissions reporting on:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A&lt;/strong&gt; - full papers: original research, applications and experiences, or surveys 
+(16 pages);&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B&lt;/strong&gt; - short papers: tools and demonstrations (6 pages);&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C&lt;/strong&gt; - journal-first papers (4 pages).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;!-- Accepted papers from all categories will appear in the proceedings of the
+conference. --&gt;&lt;/p&gt;&lt;p&gt;Accepted papers from all categories will be published by Springer, in the Lecture Notes for Computer Science series. 
+The page limit excludes references and appendices. Papers should
+be prepared in LaTeX, adhering to the Springer LNCS format and Guidelines. For
+further information please visit the LNCS page at
+&lt;a href=&#34;https://www.springer.com/lncs&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;https://www.springer.com/lncs&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Please use the easychair link below to submit your paper:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;https://easychair.org/conferences/?conf=facs2022&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;https://easychair.org/conferences/?conf=facs2022&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4 id=&#34;full-and-toolshort-publications-a-b&#34;&gt;Full and tool/short publications (A, B)&lt;/h4&gt;&lt;p&gt;All submissions in categories &lt;strong&gt;A&lt;/strong&gt; and &lt;strong&gt;B&lt;/strong&gt; must be original, unpublished,
+and not submitted concurrently for publication elsewhere. A special journal
+issue is planned for extended versions of selected papers from categories A
+and B from FACS 2022.&lt;/p&gt;&lt;h4 id=&#34;journal-first-publications-c&#34;&gt;Journal-first publications (C)&lt;/h4&gt;&lt;p&gt;Submissions in category &lt;strong&gt;C&lt;/strong&gt; must be 4-page abstracts of journal papers published after January 1st, 2021. Authors of published papers in high-quality journals can submit a proposal to present their journal paper at FACS. The journal paper must adhere to the following criteria:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;It is clearly in the scope of FACS.&lt;/li&gt;&lt;li&gt;It is recent: only journal papers available after January 1st, 2021 (online or printed) can be presented.&lt;/li&gt;&lt;li&gt;It reports new research results that significantly extend prior work. As such, the journal paper does not simply extend prior work with material presented for completeness only (such as omitted proofs, algorithms, minor enhancements, or empirical results).&lt;/li&gt;&lt;li&gt;It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;It is clearly in the scope of FACS.&lt;/li&gt;&lt;li&gt;It is recent: only journal papers available after January 1st, 2021 (online or printed) can be presented.&lt;/li&gt;&lt;li&gt;It reports new research results that significantly extend prior work. As such, the journal paper does not simply extend prior work with material presented for completeness only (such as omitted proofs, algorithms, minor enhancements, or empirical results).&lt;/li&gt;&lt;li&gt;It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.&lt;/li&gt;&lt;ul&gt;&lt;li&gt;It is clearly in the scope of FACS.&lt;/li&gt;&lt;li&gt;It is recent: only journal papers available after January 1st, 2021 (online or printed) can be presented.&lt;/li&gt;&lt;li&gt;It reports new research results that significantly extend prior work. As such, the journal paper does not simply extend prior work with material presented for completeness only (such as omitted proofs, algorithms, minor enhancements, or empirical results).&lt;/li&gt;&lt;li&gt;It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Journal-first submissions must be marked as such in EasyChair, and they must explicitly include pointers to the journal publication (such as a DOI).&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;h2&gt;
+&lt;pre&gt;&lt;code&gt;    Call for Papers
+  
+&amp;lt;/h2&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;h2 id=&amp;quot;important-dates&amp;quot;&amp;gt;Important Dates&amp;lt;/h2&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;Abstract submission deadline: 24 Jun, 2022 (AoE)&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Paper submission deadline: 4 Jul, 2022 (AoE)&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Notification: 5 Sep, 2022 (AoE)&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Final version due: 26 Sep, 2022 (AoE)&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;h2 id=&amp;quot;follow-us&amp;quot;&amp;gt;Follow Us&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;All updates on &amp;lt;a href=&amp;quot;https://twitter.com/facs_conf&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;nofollow&amp;quot;&amp;gt;twitter.com/facs_conf&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;h2 id=&amp;quot;invited-speakers&amp;quot;&amp;gt;Invited Speakers&amp;lt;/h2&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;../speakers/christelbaier/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;nofollow&amp;quot;&amp;gt;Christel Baier&amp;lt;/a&amp;gt;, TU Dresden, Germany&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;../speakers/renatoneves/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;nofollow&amp;quot;&amp;gt;Renato Neves&amp;lt;/a&amp;gt;, University of Minho, Portugal&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;../speakers/inaschaefer/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;nofollow&amp;quot;&amp;gt;Ina Schaefer&amp;lt;/a&amp;gt;, Karlsruhe IT, Germany&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;../speakers/volkerstolz/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;nofollow&amp;quot;&amp;gt;Volker Stolz&amp;lt;/a&amp;gt;, Western Norway University of Applied Science, Norway&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;h2 id=&amp;quot;scope&amp;quot;&amp;gt;Scope&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;FACS 2022 is concerned with how formal methods can be applied to
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;component-based software and system development. Formal methods have
+provided foundations for component-based software through research on
+mathematical models for components, composition and adaptation, and
+rigorous approaches to verification, deployment, testing, and certification.&lt;/p&gt;&lt;h2 id=&#34;topics&#34;&gt;Topics&lt;/h2&gt;&lt;p&gt;The conference seeks to address the applications of formal methods in all
+aspects of software components and services. FACS aims at developing a
+community-based understanding of relevant and emerging research problems
+through formal paper presentations and lively discussions. FACS 2022
+welcomes contributions including but not limited to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Formal methods, models, and languages for components and services, including
+&lt;ul&gt;&lt;li&gt;verification techniques (e.g., model checking, type systems, testing, runtime analysis),&lt;/li&gt;&lt;li&gt;probabilistic techniques,&lt;/li&gt;&lt;li&gt;(co-)simulation techniques,&lt;/li&gt;&lt;li&gt;composition and deployment,&lt;/li&gt;&lt;li&gt;component interaction,&lt;/li&gt;&lt;li&gt;software variability,&lt;/li&gt;&lt;li&gt;QoS and other non-functional properties (e.g., trust, compliance, security, privacy);&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Formal aspects of concrete component-based systems, including
+&lt;ul&gt;&lt;li&gt;service-oriented architectures,&lt;/li&gt;&lt;li&gt;business processes,&lt;/li&gt;&lt;li&gt;cloud or edge computing,&lt;/li&gt;&lt;li&gt;real-time/safety-critical systems,&lt;/li&gt;&lt;li&gt;hybrid and cyber physical systems,&lt;/li&gt;&lt;li&gt;quantum systems,&lt;/li&gt;&lt;li&gt;components that use artificial intelligence;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Tools supporting formal methods for components and services;&lt;/li&gt;&lt;li&gt;Case studies and experience reports over the above topics.&lt;/li&gt;&lt;/ul&gt;&lt;h2 id=&#34;submissions&#34;&gt;Submissions&lt;/h2&gt;&lt;p&gt;We solicit high-quality submissions reporting on:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A&lt;/strong&gt; - full papers: original research, applications and experiences, or surveys
+(16 pages);&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B&lt;/strong&gt; - short papers: tools and demonstrations (6 pages);&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C&lt;/strong&gt; - journal-first papers (4 pages).&lt;/li&gt;&lt;/ul&gt;&lt;!-- Accepted papers from all categories will appear in the proceedings of the
+conference. --&gt;&lt;p&gt;Accepted papers from all categories will be published by Springer, in the Lecture Notes for Computer Science series.
+The page limit excludes references and appendices. Papers should
+be prepared in LaTeX, adhering to the Springer LNCS format and Guidelines. For
+further information please visit the LNCS page at
+&lt;a href=&#34;https://www.springer.com/lncs&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;&lt;a href=&#34;https://www.springer.com/lncs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.springer.com/lncs&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Please use the easychair link below to submit your paper:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;https://easychair.org/conferences/?conf=facs2022&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;&lt;a href=&#34;https://easychair.org/conferences/?conf=facs2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://easychair.org/conferences/?conf=facs2022&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4 id=&#34;full-and-toolshort-publications-a-b&#34;&gt;Full and tool/short publications (A, B)&lt;/h4&gt;&lt;p&gt;All submissions in categories &lt;strong&gt;A&lt;/strong&gt; and &lt;strong&gt;B&lt;/strong&gt; must be original, unpublished,
+and not submitted concurrently for publication elsewhere. A special journal
+issue is planned for extended versions of selected papers from categories A
+and B from FACS 2022.&lt;/p&gt;&lt;h4 id=&#34;journal-first-publications-c&#34;&gt;Journal-first publications (C)&lt;/h4&gt;&lt;p&gt;Submissions in category &lt;strong&gt;C&lt;/strong&gt; must be 4-page abstracts of journal papers published after January 1st, 2021. Authors of published papers in high-quality journals can submit a proposal to present their journal paper at FACS. The journal paper must adhere to the following criteria:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;It is clearly in the scope of FACS.&lt;/li&gt;&lt;li&gt;It is recent: only journal papers available after January 1st, 2021 (online or printed) can be presented.&lt;/li&gt;&lt;li&gt;It reports new research results that significantly extend prior work. As such, the journal paper does not simply extend prior work with material presented for completeness only (such as omitted proofs, algorithms, minor enhancements, or empirical results).&lt;/li&gt;&lt;li&gt;It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Journal-first submissions must be marked as such in EasyChair, and they must explicitly include pointers to the journal publication (such as a DOI).&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;div class=&#34;item-text dynamic-text&#34;&gt;
+  &lt;div&gt;&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Abstract submission deadline: 24 Jun, 2022 (AoE)&lt;/li&gt;&lt;li&gt;Paper submission deadline: 4 Jul, 2022 (AoE)&lt;/li&gt;&lt;li&gt;Notification: 5 Sep, 2022 (AoE)&lt;/li&gt;&lt;li&gt;Final version due: 26 Sep, 2022 (AoE)&lt;/li&gt;&lt;/ul&gt;&lt;h2 id=&#34;follow-us&#34;&gt;Follow Us&lt;/h2&gt;&lt;p&gt;All updates on &lt;a href=&#34;https://twitter.com/facs_conf&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;twitter.com/facs_conf&lt;/a&gt;&lt;/p&gt;&lt;h2 id=&#34;invited-speakers&#34;&gt;Invited Speakers&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;../speakers/christelbaier/&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;Christel Baier&lt;/a&gt;, TU Dresden, Germany&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;../speakers/renatoneves/&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;Renato Neves&lt;/a&gt;, University of Minho, Portugal&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;../speakers/inaschaefer/&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;Ina Schaefer&lt;/a&gt;, Karlsruhe IT, Germany&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;../speakers/volkerstolz/&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;Volker Stolz&lt;/a&gt;, Western Norway University of Applied Science, Norway&lt;/li&gt;&lt;/ul&gt;&lt;h2 id=&#34;topics&#34;&gt;Topics&lt;/h2&gt;&lt;p&gt;The conference seeks to address the applications of formal methods in all
+aspects of software components and services. FACS aims at developing a
+community-based understanding of relevant and emerging research problems
+through formal paper presentations and lively discussions. FACS 2022
+welcomes contributions including but not limited to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Formal methods, models, and languages for components and services, including
+    &lt;ul&gt;&lt;li&gt;verification techniques (e.g., model checking, type systems, testing, runtime analysis),&lt;/li&gt;&lt;li&gt;probabilistic techniques,&lt;/li&gt;&lt;li&gt;(co-)simulation techniques,&lt;/li&gt;&lt;li&gt;composition and deployment,&lt;/li&gt;&lt;li&gt;component interaction,&lt;/li&gt;&lt;li&gt;software variability,&lt;/li&gt;&lt;li&gt;QoS and other non-functional properties (e.g., trust, compliance, security, privacy);&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Formal aspects of concrete component-based systems, including
+    &lt;ul&gt;&lt;li&gt;service-oriented architectures,&lt;/li&gt;&lt;li&gt;business processes,&lt;/li&gt;&lt;li&gt;cloud or edge computing,&lt;/li&gt;&lt;li&gt;real-time/safety-critical systems,&lt;/li&gt;&lt;li&gt;hybrid and cyber physical systems,&lt;/li&gt;&lt;li&gt;quantum systems,&lt;/li&gt;&lt;li&gt;components that use artificial intelligence;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Tools supporting formal methods for components and services;&lt;/li&gt;&lt;li&gt;Case studies and experience reports over the above topics.&lt;/li&gt;&lt;/ul&gt;&lt;h2 id=&#34;submissions&#34;&gt;Submissions&lt;/h2&gt;&lt;p&gt;We solicit high-quality submissions reporting on:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A&lt;/strong&gt; - full papers: original research, applications and experiences, or surveys 
+(16 pages);&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B&lt;/strong&gt; - short papers: tools and demonstrations (6 pages);&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C&lt;/strong&gt; - journal-first papers (4 pages).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;!-- Accepted papers from all categories will appear in the proceedings of the
+conference. --&gt;&lt;/p&gt;&lt;p&gt;Accepted papers from all categories will be published by Springer, in the Lecture Notes for Computer Science series. 
+The page limit excludes references and appendices. Papers should
+be prepared in LaTeX, adhering to the Springer LNCS format and Guidelines. For
+further information please visit the LNCS page at
+&lt;a href=&#34;https://www.springer.com/lncs&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;https://www.springer.com/lncs&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Please use the easychair link below to submit your paper:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;https://easychair.org/conferences/?conf=facs2022&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;https://easychair.org/conferences/?conf=facs2022&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4 id=&#34;full-and-toolshort-publications-a-b&#34;&gt;Full and tool/short publications (A, B)&lt;/h4&gt;&lt;p&gt;All submissions in categories &lt;strong&gt;A&lt;/strong&gt; and &lt;strong&gt;B&lt;/strong&gt; must be original, unpublished,
+and not submitted concurrently for publication elsewhere. A special journal
+issue is planned for extended versions of selected papers from categories A
+and B from FACS 2022.&lt;/p&gt;&lt;h4 id=&#34;journal-first-publications-c&#34;&gt;Journal-first publications (C)&lt;/h4&gt;&lt;p&gt;Submissions in category &lt;strong&gt;C&lt;/strong&gt; must be 4-page abstracts of journal papers published after January 1st, 2021. Authors of published papers in high-quality journals can submit a proposal to present their journal paper at FACS. The journal paper must adhere to the following criteria:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;It is clearly in the scope of FACS.&lt;/li&gt;&lt;li&gt;It is recent: only journal papers available after January 1st, 2021 (online or printed) can be presented.&lt;/li&gt;&lt;li&gt;It reports new research results that significantly extend prior work. As such, the journal paper does not simply extend prior work with material presented for completeness only (such as omitted proofs, algorithms, minor enhancements, or empirical results).&lt;/li&gt;&lt;li&gt;It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;It is clearly in the scope of FACS.&lt;/li&gt;&lt;li&gt;It is recent: only journal papers available after January 1st, 2021 (online or printed) can be presented.&lt;/li&gt;&lt;li&gt;It reports new research results that significantly extend prior work. As such, the journal paper does not simply extend prior work with material presented for completeness only (such as omitted proofs, algorithms, minor enhancements, or empirical results).&lt;/li&gt;&lt;li&gt;It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.&lt;/li&gt;&lt;ul&gt;&lt;li&gt;It is clearly in the scope of FACS.&lt;/li&gt;&lt;li&gt;It is recent: only journal papers available after January 1st, 2021 (online or printed) can be presented.&lt;/li&gt;&lt;li&gt;It reports new research results that significantly extend prior work. As such, the journal paper does not simply extend prior work with material presented for completeness only (such as omitted proofs, algorithms, minor enhancements, or empirical results).&lt;/li&gt;&lt;li&gt;It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Journal-first submissions must be marked as such in EasyChair, and they must explicitly include pointers to the journal publication (such as a DOI).&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;h2&gt;
+&lt;pre&gt;&lt;code&gt;    Call for Papers
+  
+&amp;lt;/h2&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;h2 id=&amp;quot;important-dates&amp;quot;&amp;gt;Important Dates&amp;lt;/h2&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;Abstract submission deadline: 24 Jun, 2022 (AoE)&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Paper submission deadline: 4 Jul, 2022 (AoE)&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Notification: 5 Sep, 2022 (AoE)&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Final version due: 26 Sep, 2022 (AoE)&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;h2 id=&amp;quot;follow-us&amp;quot;&amp;gt;Follow Us&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;All updates on &amp;lt;a href=&amp;quot;https://twitter.com/facs_conf&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;nofollow&amp;quot;&amp;gt;twitter.com/facs_conf&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;h2 id=&amp;quot;invited-speakers&amp;quot;&amp;gt;Invited Speakers&amp;lt;/h2&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;../speakers/christelbaier/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;nofollow&amp;quot;&amp;gt;Christel Baier&amp;lt;/a&amp;gt;, TU Dresden, Germany&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;../speakers/renatoneves/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;nofollow&amp;quot;&amp;gt;Renato Neves&amp;lt;/a&amp;gt;, University of Minho, Portugal&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;../speakers/inaschaefer/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;nofollow&amp;quot;&amp;gt;Ina Schaefer&amp;lt;/a&amp;gt;, Karlsruhe IT, Germany&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;../speakers/volkerstolz/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;nofollow&amp;quot;&amp;gt;Volker Stolz&amp;lt;/a&amp;gt;, Western Norway University of Applied Science, Norway&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;h2 id=&amp;quot;scope&amp;quot;&amp;gt;Scope&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;FACS 2022 is concerned with how formal methods can be applied to
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;component-based software and system development. Formal methods have
+provided foundations for component-based software through research on
+mathematical models for components, composition and adaptation, and
+rigorous approaches to verification, deployment, testing, and certification.&lt;/p&gt;&lt;h2 id=&#34;topics&#34;&gt;Topics&lt;/h2&gt;&lt;p&gt;The conference seeks to address the applications of formal methods in all
+aspects of software components and services. FACS aims at developing a
+community-based understanding of relevant and emerging research problems
+through formal paper presentations and lively discussions. FACS 2022
+welcomes contributions including but not limited to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Formal methods, models, and languages for components and services, including
+&lt;ul&gt;&lt;li&gt;verification techniques (e.g., model checking, type systems, testing, runtime analysis),&lt;/li&gt;&lt;li&gt;probabilistic techniques,&lt;/li&gt;&lt;li&gt;(co-)simulation techniques,&lt;/li&gt;&lt;li&gt;composition and deployment,&lt;/li&gt;&lt;li&gt;component interaction,&lt;/li&gt;&lt;li&gt;software variability,&lt;/li&gt;&lt;li&gt;QoS and other non-functional properties (e.g., trust, compliance, security, privacy);&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Formal aspects of concrete component-based systems, including
+&lt;ul&gt;&lt;li&gt;service-oriented architectures,&lt;/li&gt;&lt;li&gt;business processes,&lt;/li&gt;&lt;li&gt;cloud or edge computing,&lt;/li&gt;&lt;li&gt;real-time/safety-critical systems,&lt;/li&gt;&lt;li&gt;hybrid and cyber physical systems,&lt;/li&gt;&lt;li&gt;quantum systems,&lt;/li&gt;&lt;li&gt;components that use artificial intelligence;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Tools supporting formal methods for components and services;&lt;/li&gt;&lt;li&gt;Case studies and experience reports over the above topics.&lt;/li&gt;&lt;/ul&gt;&lt;h2 id=&#34;submissions&#34;&gt;Submissions&lt;/h2&gt;&lt;p&gt;We solicit high-quality submissions reporting on:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A&lt;/strong&gt; - full papers: original research, applications and experiences, or surveys
+(16 pages);&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B&lt;/strong&gt; - short papers: tools and demonstrations (6 pages);&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C&lt;/strong&gt; - journal-first papers (4 pages).&lt;/li&gt;&lt;/ul&gt;&lt;!-- Accepted papers from all categories will appear in the proceedings of the
+conference. --&gt;&lt;p&gt;Accepted papers from all categories will be published by Springer, in the Lecture Notes for Computer Science series.
+The page limit excludes references and appendices. Papers should
+be prepared in LaTeX, adhering to the Springer LNCS format and Guidelines. For
+further information please visit the LNCS page at
+&lt;a href=&#34;https://www.springer.com/lncs&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;&lt;a href=&#34;https://www.springer.com/lncs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.springer.com/lncs&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Please use the easychair link below to submit your paper:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;https://easychair.org/conferences/?conf=facs2022&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;&lt;a href=&#34;https://easychair.org/conferences/?conf=facs2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://easychair.org/conferences/?conf=facs2022&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4 id=&#34;full-and-toolshort-publications-a-b&#34;&gt;Full and tool/short publications (A, B)&lt;/h4&gt;&lt;p&gt;All submissions in categories &lt;strong&gt;A&lt;/strong&gt; and &lt;strong&gt;B&lt;/strong&gt; must be original, unpublished,
+and not submitted concurrently for publication elsewhere. A special journal
+issue is planned for extended versions of selected papers from categories A
+and B from FACS 2022.&lt;/p&gt;&lt;h4 id=&#34;journal-first-publications-c&#34;&gt;Journal-first publications (C)&lt;/h4&gt;&lt;p&gt;Submissions in category &lt;strong&gt;C&lt;/strong&gt; must be 4-page abstracts of journal papers published after January 1st, 2021. Authors of published papers in high-quality journals can submit a proposal to present their journal paper at FACS. The journal paper must adhere to the following criteria:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;It is clearly in the scope of FACS.&lt;/li&gt;&lt;li&gt;It is recent: only journal papers available after January 1st, 2021 (online or printed) can be presented.&lt;/li&gt;&lt;li&gt;It reports new research results that significantly extend prior work. As such, the journal paper does not simply extend prior work with material presented for completeness only (such as omitted proofs, algorithms, minor enhancements, or empirical results).&lt;/li&gt;&lt;li&gt;It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Journal-first submissions must be marked as such in EasyChair, and they must explicitly include pointers to the journal publication (such as a DOI).&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COORDINATION 2022</title>
+      <link>http://localhost:1313/homepage/conference/coordination22/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/coordination22/</guid>
+      <description>&lt;h2 id=&#34;24th-international-conference-on-coordination-models-and-languages&#34;&gt;24th International Conference on Coordination Models and Languages&lt;/h2&gt;
+&lt;p&gt;Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today’s software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.&lt;/p&gt;
+&lt;p&gt;Topics of interest encompass all areas of coordination, including (but not limited to) coordination related aspects of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Theoretical models and foundations for coordination: component composition, concurrency, mobility, dynamic, spatial and probabilistic aspects of coordination, logic, emergent behaviour, types, semantics;&lt;/li&gt;
+&lt;li&gt;Specification, refinement, and analysis of architectures: patterns and styles, verification of functional and non-functional properties, including performance and security aspects;&lt;/li&gt;
+&lt;li&gt;Dynamic software architectures: distributed mobile code, configuration, reconfiguration, networked computing, parallel, high-performance and cloud computing;&lt;/li&gt;
+&lt;li&gt;Nature- and bio-inspired approaches to coordination;&lt;/li&gt;
+&lt;li&gt;Coordination of multi-agent and collective systems: models, languages, infrastructures, self-adaptation, self-organisation, distributed solving, collective intelligence and emerging behaviour;&lt;/li&gt;
+&lt;li&gt;Coordination and modern distributed computing: web services, peer-to-peer networks, grid computing, context-awareness, ubiquitous computing, mobile computing;&lt;/li&gt;
+&lt;li&gt;Coordination platforms for infrastructures of emergent new application domains like IoT, fog- and edge-computing;&lt;/li&gt;
+&lt;li&gt;Cybersecurity aspects of coordinated systems, coordinated approaches to cybersecurity;&lt;/li&gt;
+&lt;li&gt;Programming methodologies, languages, middleware, tools, and environments for the development and verification of coordinated applications;&lt;/li&gt;
+&lt;li&gt;Tools, languages and methodologies for secure coordination;&lt;/li&gt;
+&lt;li&gt;Industrial relevance of coordination and software architectures: programming in the large, domain-specific software architectures and coordination models, case studies;&lt;/li&gt;
+&lt;li&gt;Interdisciplinary aspects of coordination;&lt;/li&gt;
+&lt;li&gt;Industry-led efforts in coordination and case studies.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QAVS 2022 @ ETAPS</title>
+      <link>http://localhost:1313/homepage/conference/qavs22/</link>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/qavs22/</guid>
+      <description>&lt;h2 id=&#34;third-workshop-on-quantitative-aspects-of-variant-rich-systems&#34;&gt;Third Workshop on Quantitative Aspects of Variant-rich Systems&lt;/h2&gt;
+&lt;p&gt;System variants often arise by configuring parameters that have a direct impact on the system’s behavior. Most prominently, in feature-oriented system design, features describe optional or incremental system functionalities whose configuration is simply whether a feature is active or inactive. Since the configuration space usually suffers from an exponential blowup in the number of configuration parameters, such variant-rich systems require specialized methods for their design, implementation, and analysis. Quantitative aspects such as probability of failure, energy consumption, or also numerical parameter values gain more and more attention due to the rising impact of co-adaptive and autonomous cyber-physical systems using, e.g., modern 5G technologies and robotics. While there are well-developed methodologies for variant-rich systems that do not take quantitative specifications into account, research on quantitative aspects is still done in fairly isolated branches. The main goal of this workshop is to bring researchers of the field together and foster their collaboration, presenting the different approaches to deal with non-functional properties of variant-rich systems.&lt;/p&gt;
+&lt;p&gt;The workshop comprises invited presentations, talks based on papers submitted following the call for papers, and presentation-only submissions (see submission details) related but not limited to the following topics:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Design,
+Modeling,
+Implementation,
+Analysis,
+Verification]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;of&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[performance,
+reliability,
+costs,
+stochastic effects]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;in&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[feature-oriented systems,
+product lines,
+configurable systems]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Following the policy of ETAPS 2022, the workshop is planned to be an on-site event but will be streamed online and allows also for remote talks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TACAS 2022 @ ETAPS</title>
+      <link>http://localhost:1313/homepage/conference/tacas22/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/tacas22/</guid>
+      <description>&lt;h2 id=&#34;28th-international-conference-on-tools-and-algorithms-for-the-construction-and-analysis-of-systems&#34;&gt;28th International Conference on Tools and Algorithms for the Construction and Analysis of Systems&lt;/h2&gt;
+&lt;p&gt;TACAS is a forum for researchers, developers and users interested in rigorously based tools and algorithms for the construction and analysis of systems. The conference aims to bridge the gaps between different communities with this common interest and to support them in their quest to improve the utility, reliability, flexibility and efficiency of tools and algorithms for building systems.&lt;/p&gt;
+&lt;p&gt;Theoretical papers with clear relevance for tool construction and analysis as well as tool descriptions and case studies with a conceptual message are all encouraged. The topics covered by the conference include, but are not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;specification and verification techniques;&lt;/li&gt;
+&lt;li&gt;software and hardware verification;&lt;/li&gt;
+&lt;li&gt;analytical techniques for real-time, hybrid, or stochastic systems;&lt;/li&gt;
+&lt;li&gt;analytical techniques for safety, security, or dependability;&lt;/li&gt;
+&lt;li&gt;SAT and SMT solving;&lt;/li&gt;
+&lt;li&gt;theorem proving;&lt;/li&gt;
+&lt;li&gt;model checking;&lt;/li&gt;
+&lt;li&gt;static and dynamic program analysis;&lt;/li&gt;
+&lt;li&gt;testing;&lt;/li&gt;
+&lt;li&gt;abstraction techniques for modeling and verification;&lt;/li&gt;
+&lt;li&gt;compositional and refinement-based methodologies;&lt;/li&gt;
+&lt;li&gt;system construction and transformation techniques;&lt;/li&gt;
+&lt;li&gt;machine-learning techniques for synthesis and verification;&lt;/li&gt;
+&lt;li&gt;tool environments and tool architectures;&lt;/li&gt;
+&lt;li&gt;applications and case studies.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FACS 2021</title>
+      <link>http://localhost:1313/homepage/conference/facs21/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/facs21/</guid>
+      <description>&lt;p&gt;The 17th edition of the International Conference on Formal Aspects of Component Software (FACS) will be held &lt;strong&gt;online&lt;/strong&gt; (originally Grenoble) on &lt;strong&gt;October 28–29, 2021.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Component-based software development proposes sound engineering principles and techniques to cope with the complexity of present-day software systems. However, many challenging conceptual and technological issues remain in component-based software development theory and practice. Furthermore, the advent of service-oriented and cloud computing, cyber-physical systems, and the Internet of Things has brought to the fore new dimensions, such as quality of service and robustness to withstand faults, which require revisiting established concepts and developing new ones.&lt;/p&gt;
+&lt;p&gt;FACS 2021 is concerned with how formal methods can be applied to component-based software and system development. Formal methods have provided foundations for component-based software through research on mathematical models for components, composition and adaptation, and rigorous approaches to verification, deployment, testing, and certification.&lt;/p&gt;
+&lt;h1 id=&#34;important-dates-tentative&#34;&gt;Important Dates (tentative)&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Abstract Submission: June 25, 2021 AoE&lt;/li&gt;
+&lt;li&gt;Paper Submission: July 2, 2021 AoE&lt;/li&gt;
+&lt;li&gt;Notification: August 20, 2021&lt;/li&gt;
+&lt;li&gt;Camera Ready: August 31, 2021&lt;/li&gt;
+&lt;li&gt;Registration (early): TBA&lt;/li&gt;
+&lt;li&gt;Conference: October 28 – 29, 2021&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MLiSE 2021 2020 @ EMCML PKDD</title>
+      <link>http://localhost:1313/homepage/conference/mlise21/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/mlise21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICTAC 2021</title>
+      <link>http://localhost:1313/homepage/conference/ictac21/</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/ictac21/</guid>
+      <description>&lt;h2 id=&#34;18th-international-colloquium-on-theoretical-aspects-of-computing&#34;&gt;18th International Colloquium on Theoretical Aspects of Computing&lt;/h2&gt;
+&lt;p&gt;The ICTAC conference series aims at bringing together researchers and practitioners from academia, industry and government to present research and exchange ideas and experience addressing challenges in both theoretical aspects of computing and the exploitation of theory through methods and tools for system development. ICTAC also aims to promote research cooperation between developing and industrial countries.&lt;/p&gt;
+&lt;p&gt;The conference concerns all aspect of theoretical computer science, including, but not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Languages and automata&lt;/li&gt;
+&lt;li&gt;Semantics of programming languages&lt;/li&gt;
+&lt;li&gt;Logic in computer science&lt;/li&gt;
+&lt;li&gt;Lambda calculus, type theory and category theory&lt;/li&gt;
+&lt;li&gt;Domain-specific languages&lt;/li&gt;
+&lt;li&gt;Theories of concurrency and mobility&lt;/li&gt;
+&lt;li&gt;Theories of distributed computing&lt;/li&gt;
+&lt;li&gt;Models of objects and components&lt;/li&gt;
+&lt;li&gt;Coordination models&lt;/li&gt;
+&lt;li&gt;Timed, hybrid, embedded and cyber-physical systems&lt;/li&gt;
+&lt;li&gt;Security and privacy&lt;/li&gt;
+&lt;li&gt;Static analysis&lt;/li&gt;
+&lt;li&gt;Probabilistic and statistical verification&lt;/li&gt;
+&lt;li&gt;Software verification&lt;/li&gt;
+&lt;li&gt;Software testing&lt;/li&gt;
+&lt;li&gt;Runtime verification&lt;/li&gt;
+&lt;li&gt;Program generation and transformation&lt;/li&gt;
+&lt;li&gt;Model checking and theorem proving&lt;/li&gt;
+&lt;li&gt;Applications and case studies&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COORDINATION 2021</title>
+      <link>http://localhost:1313/homepage/conference/coordination21/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/coordination21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F-IDE 2021 @ NFM</title>
+      <link>http://localhost:1313/homepage/conference/f-ide21/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/f-ide21/</guid>
+      <description>&lt;h3 id=&#34;hahahugoshortcode333s0hbhbhttpscister-labsptf-ide2021httpscister-labsptf-ide2021&#34;&gt;
+  &lt;span class=&#34;inline-block  pr-1&#34;&gt;
+    &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; viewBox=&#34;0 0 370 391&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;g clip-rule=&#34;evenodd&#34; fill-rule=&#34;evenodd&#34;&gt;&lt;path d=&#34;m207.5 22.4 114.4 66.6c13.5 7.9 21.9 22.4 21.9 38v136.4c0 17.3-9.3 33.3-24.5 41.8l-113.5 63.9a49.06 49.06 0 0 1 -48.5-.2l-104.5-60.1c-16.4-9.5-26.6-27-26.6-45.9v-129.5c0-19.1 9.9-36.8 26.1-46.8l102.8-63.5c16-9.9 36.2-10.1 52.4-.7z&#34; fill=&#34;#ff4088&#34; stroke=&#34;#c9177e&#34; stroke-width=&#34;27&#34; /&gt;&lt;path d=&#34;m105.6 298.2v-207.2h43.4v75.5h71.9v-75.5h43.5v207.2h-43.5v-90.6h-71.9v90.6z&#34; fill=&#34;#fff&#34; /&gt;&lt;/g&gt;&lt;/svg&gt;
+  &lt;/span&gt;&lt;a href=&#34;https://cister-labs.pt/f-ide2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cister-labs.pt/f-ide2021&lt;/a&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;6th-workshop-on-formal-integrated-development-environment&#34;&gt;6th Workshop on Formal Integrated Development Environment&lt;/h4&gt;
+&lt;h4 id=&#34;affiliated-to-nasa-formal-methods-2021-nfmhttpsshemeshlarcnasagovnfm2021&#34;&gt;Affiliated to &lt;a href=&#34;https://shemesh.larc.nasa.gov/nfm2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA Formal Methods 2021 (NFM)&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;24-28-may-2021---online-event---norfolk-va-usa&#34;&gt;24-28 May, 2021 - Online event - Norfolk, VA, USA&lt;/h4&gt;
+&lt;h2 id=&#34;important-dates&#34;&gt;Important dates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Abstract submission: 22 February 2021&lt;/li&gt;
+&lt;li&gt;Paper submission: 1 March 2021&lt;/li&gt;
+&lt;li&gt;Notification: 19 April 2021&lt;/li&gt;
+&lt;li&gt;Camera-ready version: 3 May 2021&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;aims&#34;&gt;Aims&lt;/h2&gt;
+&lt;p&gt;High levels of safety, security and also privacy standards require the use of formal methods to specify and develop compliant software (sub)systems. Any standard comes with an assessment process, which requires a complete documentation of the application to ease the justification of design choices and the review of code and proofs.&lt;/p&gt;
+&lt;p&gt;Ideally, an F-IDE dedicated to such developments should comply with several requirements. The first one is to associate a logical theory with a programming language, in a way that facilitates the tightly coupled handling of specification properties and program constructs. The second is to offer a language/environment simple enough to be usable by most developers, even if they are not fully acquainted with higher-order logics or set theory, in particular by making development of proofs as easy as possible. The third is to offer automated management of application documentation. It may also be expected that developments done with such an F-IDE are reusable and modular. Tools for testing and static analysis may be embedded within F-IDEs to support the assessment process.&lt;/p&gt;
+&lt;h2 id=&#34;topics&#34;&gt;Topics&lt;/h2&gt;
+&lt;p&gt;The workshop is open to contributions on all aspects of a system development process, including specification, design, implementation, analysis and documentation. It welcomes the presentation of tools, methods, techniques and experiments. Topics of interest include, but are not limited to, the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;F-IDE building: design and integration of languages, development of user-friendly front-ends&lt;/li&gt;
+&lt;li&gt;How to make high-level logical and programming concepts palatable to industrial developers&lt;/li&gt;
+&lt;li&gt;Integration of Object-Oriented and modularity features&lt;/li&gt;
+&lt;li&gt;Integration of static analyzers&lt;/li&gt;
+&lt;li&gt;Integration of automatic proof tools, theorem provers and testing tools&lt;/li&gt;
+&lt;li&gt;Documentation tools&lt;/li&gt;
+&lt;li&gt;Impact of tools on certification&lt;/li&gt;
+&lt;li&gt;Experience reports on developing F-IDEs&lt;/li&gt;
+&lt;li&gt;Experience reports on using F-IDEs&lt;/li&gt;
+&lt;li&gt;Experience reports on formal methods-based assessments in industrial applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;program-committee&#34;&gt;Program Committee&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Andrew Reynolds, University of Iowa, USA&lt;/li&gt;
+&lt;li&gt;Damien Doligez, Inria, France&lt;/li&gt;
+&lt;li&gt;Bernhard Rumpe, RWTH Aachen University, Germany&lt;/li&gt;
+&lt;li&gt;Carlo A. Furia, Chalmers University of Technology, Sweden&lt;/li&gt;
+&lt;li&gt;César Muñoz, NASA Langley, USA&lt;/li&gt;
+&lt;li&gt;Cinzia Bernardeschi, University of Pisa, Italy&lt;/li&gt;
+&lt;li&gt;Claudio Sacerdoti Coen, University of Bologna, Italy&lt;/li&gt;
+&lt;li&gt;Enrico Tassi, Inria, France&lt;/li&gt;
+&lt;li&gt;François Pessaux, ENSTA ParisTech, France&lt;/li&gt;
+&lt;li&gt;José Creissac Campos, University of Minho, Portugal&lt;/li&gt;
+&lt;li&gt;Kenneth Lausdahl, Aarhus University, Denmark&lt;/li&gt;
+&lt;li&gt;Laurent Voisin, Systerel, France&lt;/li&gt;
+&lt;li&gt;Lucas Wagner, Collins Aerospace, USA&lt;/li&gt;
+&lt;li&gt;Makarius Wenzel, sketis.net&lt;/li&gt;
+&lt;li&gt;Markus A. Kuppe, Microsoft Research, USA&lt;/li&gt;
+&lt;li&gt;Mattias Ulbrich, Karlsruhe Institute of Technology, Germany&lt;/li&gt;
+&lt;li&gt;Pierre-Yves Strub, LIX, École Polytechnique, France&lt;/li&gt;
+&lt;li&gt;Rosemary Monahan, Maynooth University, Ireland&lt;/li&gt;
+&lt;li&gt;Silvia Lizeth Tapia Tarifa, University of Oslo, Norway&lt;/li&gt;
+&lt;li&gt;Simão Melo de Sousa, Universidade Beira Interior, Portugal&lt;/li&gt;
+&lt;li&gt;Stefan Mitsch, Carnegie Mellon University, USA&lt;/li&gt;
+&lt;li&gt;Stephan Merz, Inria, France&lt;/li&gt;
+&lt;li&gt;Virgile Prevosto, Institut List, CEA Tech, Université Paris-Saclay, France&lt;/li&gt;
+&lt;li&gt;Yannick Moy, AdaCore, France&lt;/li&gt;
+&lt;li&gt;Yi Zhang, Massachusetts General Hospital, USA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pc-chairs&#34;&gt;PC Chairs&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Andrei Paskevich, Université Paris-Saclay, France&lt;/li&gt;
+&lt;li&gt;José Proença, CISTER/ISEP, Portugal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;steering-committee&#34;&gt;Steering Committee&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Catherine Dubois, Samovar, ENSIIE, France&lt;/li&gt;
+&lt;li&gt;Paolo Masci, US National Institute of Aerospace (NIA), USA&lt;/li&gt;
+&lt;li&gt;Dominique Méry, LORIA, Université de Lorraine, France&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FSEN 2021</title>
+      <link>http://localhost:1313/homepage/conference/fsen21/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/fsen21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TACAS 2021 @ ETAPS</title>
+      <link>http://localhost:1313/homepage/conference/tacas21/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/tacas21/</guid>
+      <description>&lt;h2 id=&#34;27th-international-conference-on-tools-and-algorithms-for-the-construction-and-analysis-of-systems&#34;&gt;27th International Conference on Tools and Algorithms for the Construction and Analysis of Systems&lt;/h2&gt;
+&lt;p&gt;TACAS is a forum for researchers, developers and users interested in rigorously based tools and algorithms for the construction and analysis of systems. The conference aims to bridge the gaps between different communities with this common interest and to support them in their quest to improve the utility, reliability, flexibility and efficiency of tools and algorithms for building systems.&lt;/p&gt;
+&lt;p&gt;Theoretical papers with clear relevance for tool construction and analysis as well as tool descriptions and case studies with a conceptual message are all encouraged. The topics covered by the conference include, but are not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;specification and verification techniques;&lt;/li&gt;
+&lt;li&gt;software and hardware verification;&lt;/li&gt;
+&lt;li&gt;analytical techniques for real-time, hybrid, or stochastic systems;&lt;/li&gt;
+&lt;li&gt;analytical techniques for safety, security, or dependability;&lt;/li&gt;
+&lt;li&gt;SAT and SMT solving;&lt;/li&gt;
+&lt;li&gt;theorem proving;&lt;/li&gt;
+&lt;li&gt;model checking;&lt;/li&gt;
+&lt;li&gt;static and dynamic program analysis;&lt;/li&gt;
+&lt;li&gt;testing;&lt;/li&gt;
+&lt;li&gt;abstraction techniques for modeling and verification;&lt;/li&gt;
+&lt;li&gt;compositional and refinement-based methodologies;&lt;/li&gt;
+&lt;li&gt;system construction and transformation techniques;&lt;/li&gt;
+&lt;li&gt;machine-learning techniques for synthesis and verification;&lt;/li&gt;
+&lt;li&gt;tool environments and tool architectures;&lt;/li&gt;
+&lt;li&gt;applications and case studies.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FOCLASA 2020 @ SEFM</title>
+      <link>http://localhost:1313/homepage/conference/foclasa20/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/foclasa20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COORDINATION 2020</title>
+      <link>http://localhost:1313/homepage/conference/coordination20/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/coordination20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FACS 2019</title>
+      <link>http://localhost:1313/homepage/conference/facs19/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/facs19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F-IDE 2019  @ FM</title>
+      <link>http://localhost:1313/homepage/conference/f-ide19/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/f-ide19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOCLASA 2019 @ SEFM</title>
+      <link>http://localhost:1313/homepage/conference/foclasa19/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/foclasa19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COORDINATION 2019</title>
+      <link>http://localhost:1313/homepage/conference/coordination19/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/coordination19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FSEN 2019</title>
+      <link>http://localhost:1313/homepage/conference/fsen19/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/fsen19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REBLS 2018 @ SPLASH</title>
+      <link>http://localhost:1313/homepage/conference/rebls18/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/rebls18/</guid>
+      <description>&lt;h1 id=&#34;5th-workshop-on-reactive-and-event-based-languages--systems&#34;&gt;5th Workshop on Reactive and Event-based Languages &amp;amp; Systems&lt;/h1&gt;
+&lt;p&gt;Reactive programming and event-based programming are two closely related programming styles that are becoming ever more important with the advent of advanced HPC technology and the ever increasing requirement for our applications to run on the web or on collaborating mobile devices. A number of publications on middleware and language design — so-called reactive and event-based languages and systems (REBLS) — have already seen the light, but the field still raises several questions. For example, the interaction with mainstream language concepts is poorly understood, implementation technology is in its infancy and modularity mechanisms are almost totally lacking. Moreover, large applications are still to be developed and patterns and tools for developing reactive applications is an area that is vastly unexplored.&lt;/p&gt;
+&lt;p&gt;This workshop will gather researchers in reactive and event-based languages and systems. The goal of the workshop is to exchange new technical research results and to define better the field by coming up with taxonomies and overviews of the existing work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FACS 2018</title>
+      <link>http://localhost:1313/homepage/conference/facs18/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/facs18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOCLASA 2018 @ STAF/SEFM</title>
+      <link>http://localhost:1313/homepage/conference/foclasa18/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/foclasa18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COORDINATION 2018</title>
+      <link>http://localhost:1313/homepage/conference/coordination18/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/coordination18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FACS 2017</title>
+      <link>http://localhost:1313/homepage/conference/facs17/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/facs17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOCLASA 2017  @ SEFM</title>
+      <link>http://localhost:1313/homepage/conference/foclasa17/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/foclasa17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COORDINATION 2017</title>
+      <link>http://localhost:1313/homepage/conference/coordination17/</link>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/coordination17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FSEN 2017</title>
+      <link>http://localhost:1313/homepage/conference/fsen17/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/fsen17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COORDINATION 2016</title>
+      <link>http://localhost:1313/homepage/conference/coordination16/</link>
+      <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/coordination16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOCLASA 2015 @ SEFM</title>
+      <link>http://localhost:1313/homepage/conference/foclasa15/</link>
+      <pubDate>Wed, 17 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/foclasa15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FSEN 2015</title>
+      <link>http://localhost:1313/homepage/conference/fsen15/</link>
+      <pubDate>Wed, 22 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/fsen15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOCLASA 2014 @ SEFM</title>
+      <link>http://localhost:1313/homepage/conference/foclasa14/</link>
+      <pubDate>Tue, 17 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/conference/foclasa14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
