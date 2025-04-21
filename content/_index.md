@@ -84,6 +84,58 @@ sections:
       view: card
       # view: date-title-summary
       columns: 1
+
+  - block: markdown
+    content:
+      title: "Contact"
+      subtitle: "How to find me"
+      text: |-
+        📧 Email: david.tinoco@inria.fr \
+        📍 Morada: Université Côte d'Azur INRIA Center, 2004 Rte des Lucioles, 06902 Valbonne, Office B205
+        <a href="https://github.com/Dtinas10" target="_blank">
+          <img src="icons/github.png" width="32" alt="GitHub"> 
+        </a> 
+        GitHub: https://github.com/Dtinas10
+        <a href="https://linkedin.com/in/david--tinoco" target="_blank">
+          <img src="linkedin.png" width="32" alt="Linkedin">
+        </a> Linkedin: https://linkedin.com/in/david--tinoco
+        <a href="https://orcid.org/0000-0002-9369-9206" target="_blank">
+          <img src="orcid.png" width="32" style="border-radius: 100%;" alt="Orcid">
+        </a> ORCID: [https://orcid.org/0000-0002-9369-9206](https://orcid.org/0000-0002-9369-9206)
+    design:
+      columns: "1"
+  
+
+  # - block: featured
+  #   content:
+  #     title: "Socials"
+  #     items:
+  #       - icon: github
+  #         icon_pack: fab
+  #         title: "GitHub"
+  #         description: "Veja o meu código"
+  #         url: https://github.com/Dtinas10
+
+  #       - icon: linkedin
+  #         icon_pack: fab
+  #         title: "LinkedIn"
+  #         description: "Conecte-se comigo"
+  #         url: https://linkedin.com/in/david--tinoco
+
+  #       - icon: orcid
+  #         icon_pack: ai
+  #         title: "ORCID"
+  #         url: https://orcid.org/0000-0002-9369-9206
+  #   design:
+  #     columns: 3
+
+
+
+
+  #   design:
+  #     # view: card
+  #     # view: date-title-summary
+  #     columns: 1
   # - block: collection
   #   id: news
   #   content:

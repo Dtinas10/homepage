@@ -15,7 +15,7 @@ authors:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-# date: '2022-03-07'
+date: '2022-03-07'
 doi: '10.21125/inted.2022.0162'
 
 # Schedule page publish date (NOT publication's date).

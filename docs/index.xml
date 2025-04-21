@@ -287,7 +287,7 @@
 
 
 
-&lt;div id=&#34;chart-532186497&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-871459326&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -305,7 +305,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-532186497&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-871459326&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -934,7 +934,7 @@ Parallel 4   :         des6, after des4, 1d
     <item>
       <title>AUGMENTED REALITY AS AN ASSET TO 3D GEOMETRY: A DIGITAL RESOURCE FOR TEACHERS</title>
       <link>https://Dtinas10.github.io/homepage/publication/ribeiro2022/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://Dtinas10.github.io/homepage/publication/ribeiro2022/</guid>
       <description>&lt;!-- 
 

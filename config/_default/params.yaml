@@ -62,4 +62,11 @@ features:
 sharing:
   enable: false
 
+map:
+  enable: true
+  latitude: 41.1504
+  longitude: -8.6301
+  zoom: 15
+
+
 
