@@ -46,8 +46,8 @@ profiles:
     url: https://orcid.org/0000-0002-9369-9206
 
 interests:
-  - Control
-  - Quantum
+  - Quantum Control
+  - Optimisation
   # - Information Retrieval
 
 education:
