@@ -185,6 +185,6 @@ work:
 
 ## About Me
 
-I am currently a PhD student at Inria, supervised by [Jean-Baptiste Caillau](https://caillau.perso.math.cnrs.fr/) and [Ivan Beschastnyi](https://sites.google.com/view/ivan-bes). My research topic is in quantum control theory, with a focus on [nearly optimal pulse control of quantum systems](https://sites.google.com/view/ivan-bes). The aim of this project is to develop both theoretical and numerical methods for the fast and efficient manipulation of quantum systems, which are known to be highly sensitive to noise and decoherence. 
+I am currently a PhD student at Inria, supervised by [Jean-Baptiste Caillau](https://caillau.perso.math.cnrs.fr/) and [Ivan Beschastnyi](https://sites.google.com/view/ivan-bes). My research topic is in quantum control theory, with a focus on [nearly optimal pulse control of quantum systems](/static/uploads/Quantum_project.pdf). The aim of this project is to develop both theoretical and numerical methods for the fast and efficient manipulation of quantum systems, which are known to be highly sensitive to noise and decoherence. 
 
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
