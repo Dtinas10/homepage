@@ -5,12 +5,28 @@
     <link>https://Dtinas10.github.io/homepage/tags/ibex/</link>
       <atom:link href="https://Dtinas10.github.io/homepage/tags/ibex/index.xml" rel="self" type="application/rss+xml" />
     <description>Ibex</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Dtinas10.github.io/homepage/media/icon_hu7729264130191091259.png</url>
       <title>Ibex</title>
       <link>https://Dtinas10.github.io/homepage/tags/ibex/</link>
     </image>
+    
+    <item>
+      <title>Control of an Nitrogen-vacancy Center as a Two-qubit System</title>
+      <link>https://Dtinas10.github.io/homepage/publication/ifac-2026/</link>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://Dtinas10.github.io/homepage/publication/ifac-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pulse control of affine systems with applications to quantum control</title>
+      <link>https://Dtinas10.github.io/homepage/publication/cdc-2025/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://Dtinas10.github.io/homepage/publication/cdc-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Complex Days 2025 Poster: Nearly optimal pulse control of quantum systems</title>

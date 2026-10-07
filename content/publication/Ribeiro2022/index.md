@@ -27,8 +27,7 @@ doi: '10.21125/inted.2022.0162'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *16th International Technology, Education and Development Conference*
-publication_short: In *INTED2022*
+publication: '*16th International Technology, Education and Development Conference, INTED 2022, Valencia, Spain, 7-8 March*'
 
 abstract: 'Geometry, as an area of knowledge that studies the general spatial structure, includes both bidimensional and three-dimensional shapes, requiring a set of spatial abilities (i..e spatial orientation and visualization) to understand spatial objects and the relationship between them and its one- and two-dimensional elements. Understanding these concepts is crucial to bridging spatial abilities into the real world. In fact, three-dimensional spatial abilities impact the acquisition of high-level mathematical concepts, such as problem-solving (a fundamental human cognitive process), and reasoning.
 
@@ -84,21 +83,5 @@ featured: true
 #   Otherwise, set `projects: []`.
 # projects:
   # - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-# slides: example
 ---
 
-<!-- {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
