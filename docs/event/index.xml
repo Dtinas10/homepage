@@ -5,12 +5,20 @@
     <link>https://Dtinas10.github.io/homepage/event/</link>
       <atom:link href="https://Dtinas10.github.io/homepage/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Events</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Dtinas10.github.io/homepage/media/icon_hu7729264130191091259.png</url>
       <title>Events</title>
       <link>https://Dtinas10.github.io/homepage/event/</link>
     </image>
+    
+    <item>
+      <title>IFAC World Congress 2026</title>
+      <link>https://Dtinas10.github.io/homepage/event/ifac26/</link>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://Dtinas10.github.io/homepage/event/ifac26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>THE COMPLEX DAYS 2025</title>
